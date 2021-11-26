@@ -1,2 +1,1 @@
-# MSCI-641
-Text Analytics Project
+![alt text](https://github.com/SushmithaUW/FNC-1-Stance-Detection/blob/master/Poster.pdf?raw=true)
